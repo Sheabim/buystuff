@@ -3886,6 +3886,8 @@ aside .latest-post li figure {width: 75px;}
  SHELA CHAGE
 ====================================== */
 
-.swiper-container-horizontal .swiper-slide .opacity-extra-medium {
-	display: none;
+
+
+.lightbox-portfolio figure .bg-deep-pink {
+	background-color: #FFF5EE;
 }
